@@ -17,10 +17,10 @@ npm run build
 
 ## Test SDK creating node project
 - Create nodejs Typescript project
-- Install sdk package from npm registry `npm i sdk-typescript-trial`
+- Install sdk package from npm registry `npm i kingsley-sdk`
 - You can consume the package using below code :
 ```typescript
-import { Library } from 'sdk-typescript-trial';
+import { Library } from 'kingsley-sdk';
 
 const client = new Library({
   authToken: 'XGyPMmM2g1XPU46RbLSC',
