@@ -21,7 +21,7 @@
 #### Setting up Repository and Configuration
 ```
 npm init -y
-npm install — save-dev microbundle 
+npm install microbundle --save-dev
 npm install isomorphic-unfetch
 ```
 
